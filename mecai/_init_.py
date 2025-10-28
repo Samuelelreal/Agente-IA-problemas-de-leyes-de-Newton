@@ -1,0 +1,1 @@
+# Paquete mecai - Módulo de IA para resolver problemas de mecánica clásica
